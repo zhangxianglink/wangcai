@@ -1,0 +1,17 @@
+<template>
+    <div id="nav">
+      <router-link to="/">money</router-link> |    
+      <router-link to="/lables">lables</router-link> |
+      <router-link to="/statistics">statistics</router-link>
+    </div>
+</template>
+
+<script lang="ts">
+export default {
+    
+}
+</script>
+
+<style lang="sass" scoped>
+
+</style>
