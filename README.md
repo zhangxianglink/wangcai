@@ -45,3 +45,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   1. ts/js可以使用@/路径名引入依赖，@代表src目录
   2. scss ~@/路径名引入依赖
   2. 个人感觉不如自己写相对路径
+
++ eslint ignore
+  1. /* eslint-disable */
+  2. https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-var-requires.md

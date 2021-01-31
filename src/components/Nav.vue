@@ -1,13 +1,15 @@
 <template>
   <div class="nav">
     <router-link to="/">
-      <svg>
-        <use xlink:href="#money"/>
-      </svg>
+      <Icons name="money"></Icons>
       money
     </router-link>
-    | <router-link to="/lables">lables</router-link> |
-    <router-link to="/statistics">statistics</router-link>
+    |
+    <router-link to="/lables"> <Icons name="Lable"> </Icons>lables</router-link>
+    |
+    <router-link to="/statistics">
+      <Icons name="statistics"></Icons>statistics</router-link
+    >
   </div>
 </template>
 
