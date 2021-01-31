@@ -40,12 +40,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 + 插件
   1. Vetur and  Vue VSCode Snippets
+  2. [git history 使用](https://www.cnblogs.com/EdisonVan/p/10642698.html)
 
 + import alias
   1. ts/js可以使用@/路径名引入依赖，@代表src目录
   2. scss ~@/路径名引入依赖
   2. 个人感觉不如自己写相对路径
 
-+ eslint ignore
-  1. /* eslint-disable */
-  2. https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-var-requires.md
+
+
