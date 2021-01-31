@@ -1,12 +1,14 @@
 <template>
   <div>
-    标签
-    <Nav />
+    <Layout>标签</Layout>
   </div>
 </template>
 
 <script lang="ts">
-export default {};
+
+export default {
+  
+};
 </script>
 
 <style lang="sass" scoped>
